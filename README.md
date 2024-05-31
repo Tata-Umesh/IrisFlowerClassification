@@ -1,1 +1,1 @@
-Machine Learning model to classify Iris Flowers based on characteristics
+This Machine Learning model classifies Iris Flowers based on characteristics.
